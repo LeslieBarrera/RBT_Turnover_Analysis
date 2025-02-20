@@ -77,5 +77,8 @@ The project includes:
 🔹 Software Integration → Connect predictions with existing ABA management tools.
 🔹 User-Friendly Dashboard → Build an interactive tool for BCBA decision-making.
 
+## **📌 Explore the Full Case Study**  
+For a detailed breakdown, check out the **Notion Case Study**: [🔗 RBT Turnover & Retention Analysis](https://www.notion.so/RBT-Turnover-Retention-Analysis-Product-Manager-Case-Study-1a08eaa852e4804cb526f250b11e8ac5?pvs=4)
+
 ## **📧 Contact**
 For questions or collaboration opportunities, feel free to connect with me on LinkedIn or check out my other projects on GitHub.
